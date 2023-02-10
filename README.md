@@ -2,7 +2,6 @@
 -
 ### I am Chemist 👩‍🔬 and Developer 💻 . 
 - I finished JavaScript Developer course (above 200 hours)
-- I'm currently during 3-months Node.js course.
 - Yes, I'm **looking for job to develop my skills** and to contribute in
 - I love  **travelling**, **taking photos** and spending time with my dog :dog: I adopted it from the shelter
 - I come from town 🏠, but moving into a big city is not a problem for me 🏙️
